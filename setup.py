@@ -9,6 +9,7 @@ setup(
         "bundle": [
             ".gitpod.yml",
             ".gitpod/Dockerfile",
+            ".gitpod/docker-compose.yml",            
         ]
     },
 )
